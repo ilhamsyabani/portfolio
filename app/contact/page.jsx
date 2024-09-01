@@ -18,7 +18,7 @@ const Contact = () => {
               <p className="subtitle max-w-[400px]">Have a project in mind or just want to say hello? Let&apos;s start a conversation. Whether you&apos;re ready to build something great or just need some advice, I&apos;m here to help. Fill out the form below, and let&apos;s make your ideas come to life.</p>
             </div>
             <div className="xl:w-[40%] items-center gap-x-4 gap-y-8">
-              <h2 className="h2 my-8">Cantact Me</h2>
+              <h2 className="h2 my-8">Contact Me</h2>
               <Form />
             </div>
           </div>

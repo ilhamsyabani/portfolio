@@ -12,7 +12,7 @@ const ProjectCard = ({ project }) => {
         xl:bg-work_project_light xl:dark:bg-work_project_dark xl:bg-[110%] rounded-t-sm">
           <Image className="absolute bottom-0" src={project.image} width={247} height={250} alt="" priority />
         <div>
-          <Link href={project.link} className='bg-secondary  text-primary w-[52px] h-[52px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200 ease-out'><Link2Icon /></Link>
+          <Link href={project.github} className='bg-secondary  text-primary w-[52px] h-[52px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200 ease-out'><Link2Icon /></Link>
         </div>
         </div>
       </CardHeader>

@@ -5,7 +5,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 
 const projectData = [
   {
-    image: '/work/project-1.png',
+    image: '/work/dosenku.png',
     category: 'Web Development',
     role: 'Programmer',
     name: 'Dosenku-App',
@@ -15,7 +15,7 @@ const projectData = [
     description_en: 'A comprehensive application for lecturer data management and academic tracking.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/mymental.png',
     category: 'Web Development',
     role: ['Programmer', 'Designer'],
     name: 'MyMental-App',
@@ -25,7 +25,7 @@ const projectData = [
     description_en: 'A mental health consultation booking app with integrated online payment features.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/gemari.png',
     category: 'Web Development',
     role: ['Programmer', 'Designer'],
     name: 'Gemari',
