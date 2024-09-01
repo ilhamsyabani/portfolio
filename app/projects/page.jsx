@@ -229,8 +229,7 @@ const Project = () => {
           <div className='text-sm xl:mt-24 grid grid-cols-1 lg:grid-cols-3 gap-4'>
             {filteredProjects.map((project, index) => (
               <TabsContent value={category} key={index}>
-                <Portfolio project={project} />
-                
+                <Portfolio project={project} />              
               </TabsContent>
             ))}
           </div>
