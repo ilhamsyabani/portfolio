@@ -35,7 +35,7 @@ const projectData = [
     description_en: 'An educational game management application for interactive learning and evaluation.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/sekolah-bani.png',
     category: 'Graphic Design',
     role: ['Designer'],
     name: 'Kelas Banni Studio',
@@ -45,7 +45,7 @@ const projectData = [
     description_en: 'A promotional landing page for graphic design classes at Banni Studio.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/esaungul.png',
     category: 'Graphic Design',
     role: ['Designer'],
     name: 'LPPM Esa Unggul',
@@ -55,7 +55,7 @@ const projectData = [
     description_en: 'A website redesign for LPPM Esa Unggul, enhancing user experience and accessibility.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/ig-bani.png',
     category: 'Graphic Design',
     role: ['Designer'],
     name: 'Banni IG Content',
@@ -95,7 +95,7 @@ const projectData = [
     description_en: 'Promotional brochure design for Mie Ceria, highlighting unique products and special offers.',
   },
   {
-    image: '/work/project-1.png',
+    image: '/work/mie.png',
     category: 'Graphic Design',
     role: ['Designer'],
     name: 'Logo Design',
@@ -155,7 +155,7 @@ const projectData = [
     description_en: 'Educational adventure game introducing students to Indonesian culture and geography.',
   },
   {
-    image: '/work/project-3.png',
+    image: '/work/survey.png',
     category: 'Web Development',
     role: ['Programmer'],
     name: 'E-Sertifikat',
@@ -165,7 +165,7 @@ const projectData = [
     description_en: 'A platform for generating and managing digital certificates with Excel data integration.',
   },
   {
-    image: '/work/project-3.png',
+    image: '/work/laptp.png',
     category: 'Web Development',
     role: ['Programmer'],
     name: 'Pinjam di Lab',
@@ -175,7 +175,7 @@ const projectData = [
     description_en: 'A loan management platform with inventory, stock tracking, and facial recognition features for lab equipment.',
   },
   {
-    image: '/work/project-3.png',
+    image: '/work/komdiguru.png',
     category: 'Web Development',
     role: ['Programmer'],
     name: 'Komdiguru',
@@ -185,7 +185,7 @@ const projectData = [
     description_en: 'A platform for conducting online surveys or evaluations, designed for easy data collection and comprehensive reporting.',
   },
   {
-    image: '/work/project-3.png',
+    image: '/work/amiclc.png',
     category: 'Web Development',
     role: ['Programmer'],
     name: 'EvaluatorAMI CLC',
