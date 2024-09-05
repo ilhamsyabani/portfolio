@@ -18,10 +18,6 @@ const infoData = [
     text: 'syabani.ilhamsi@gmail.com',
   },
   {
-    icon: <Calendar size={18} />,
-    text: 'Mei 1994',
-  },
-  {
     icon: <GraduationCap size={18} />,
     text: 'Bachelor Of Educational Technology',
   },
