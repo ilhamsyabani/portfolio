@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Card, CardHeader, } from "./ui/card";
-import { Github, Link2Icon } from "lucide-react";
+import { GithubIcon, Link2Icon } from "lucide-react";
 import { Badge } from "./ui/badge";
 
 
@@ -14,6 +14,7 @@ const Portfolio = ({ project }) => {
                     <Image className="absolute bottom-0" src={project.image} width={247} height={250} alt="" priority />
                     <div>
                         <Link href={project.link} className='bg-secondary  text-primary w-[52px] h-[52px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200 ease-out'><Link2Icon /></Link>
+                        {/* <Link href={project.github} className='bg-secondary  text-primary w-[52px] h-[52px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200 ease-out'><GithubIcon /></Link> */}
                     </div>
                 </div>
             </CardHeader>
