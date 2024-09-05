@@ -4,19 +4,19 @@ import Link from 'next/link';
 
 const icons = [
   {
-    path: 'https://www.linkedin.com/in/yourprofile', // replace with your LinkedIn URL
+    path: 'https://www.linkedin.com/in/syabaniilham/', // replace with your LinkedIn URL
     name: <RiLinkedinFill />,
   },
   {
-    path: 'https://github.com/yourprofile', // replace with your GitHub URL
+    path: 'https://github.com/ilhamsyabani', // replace with your GitHub URL
     name: <RiGithubFill />,
   },
   {
-    path: 'https://www.instagram.com/yourprofile', // replace with your Instagram URL
+    path: 'https://www.instagram.com/titikdanselesai', // replace with your Instagram URL
     name: <RiInstagramFill />,
   },
   {
-    path: 'https://dribbble.com/yourprofile', // replace with your Dribbble URL
+    path: 'https://dribbble.com/ilsya', // replace with your Dribbble URL
     name: <RiDribbbleFill />,
   },
 ];
