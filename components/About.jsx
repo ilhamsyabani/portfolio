@@ -19,7 +19,7 @@ const infoData = [
   },
   {
     icon: <Calendar size={18} />,
-    text: 'Born on 03 Mei, 1994',
+    text: 'Mei 1994',
   },
   {
     icon: <GraduationCap size={18} />,
@@ -27,7 +27,7 @@ const infoData = [
   },
   {
     icon: <HomeIcon size={18} />,
-    text: 'Manyar Sabrangan, Mulyorejo, Surabaya',
+    text: 'Surabaya dan yogyakarta',
   },
 ];
 
